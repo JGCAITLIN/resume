@@ -11,3 +11,7 @@
  
  - [Ventura College](https://www.venturacollege.edu/) (_2016-2018_)
  
+ ## Research Interests ##
+ 
+ My research interests include meteoritics and remote sensing of planetary surfaces! 
+ 
